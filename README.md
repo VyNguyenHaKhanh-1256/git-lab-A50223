@@ -1,2 +1,4 @@
+# Mini Calculator (git-lab)
+
 Phien ban: 0.1.0
-Mo ta: Chuong trinh may tinh mini (ghi chu sai can sua).
+Mo ta: Ung dung may tinh mini ho tro cac phep tinh co ban.
