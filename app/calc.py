@@ -11,3 +11,8 @@ def sub(a, b):
 def mul(a, b):
     """Nhan hai so a va b (WIP)."""
     return a * b
+
+
+def power(a, b):
+    """Tinh a luy thua b."""
+    return a ** b
