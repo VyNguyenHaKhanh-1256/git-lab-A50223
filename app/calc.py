@@ -12,7 +12,8 @@ def mul(a, b):
     """Nhan hai so a va b (WIP)."""
     return a * b
 
-
+def func():
+    return 0
 
 def power(a, b):
     """Tinh a luy thua b."""
