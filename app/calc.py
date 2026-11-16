@@ -13,9 +13,15 @@ def mul(a, b):
     return a * b
 
 
+
+def power(a, b):
+    """Tinh a luy thua b."""
+    return a ** b
+
 def div(a, b):
     """Chia a cho b."""
     if b == 0:
         raise ValueError("Khong chia duoc")
     return a / b
 # division helper verified
+
