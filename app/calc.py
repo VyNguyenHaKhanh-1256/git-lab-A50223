@@ -24,5 +24,3 @@ def div(a, b):
     if b == 0:
         raise ValueError("Khong chia duoc")
     return a / b
-# division helper verified
-
