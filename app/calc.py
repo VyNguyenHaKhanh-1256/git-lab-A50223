@@ -26,3 +26,10 @@ def div(a, b):
     return a / b
 # division helper verified
 
+
+
+def sqrt(x):
+    """Tinh can bac hai cua x."""
+    if x < 0:
+        raise ValueError("[InvalidInput] Khong the tinh can bac hai cua so am")
+    return x ** 0.5
